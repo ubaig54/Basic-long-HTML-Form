@@ -31,7 +31,6 @@ body {
 h1 {
     font-size: 3em;
     text-transform: capitalize;
-    /* margin: 0; */
     line-height: initial;
 }
 
@@ -87,7 +86,6 @@ section {
     overflow: hidden;
     background: #fff;
     margin: 20px 0;
-    /* border: solid 1px #ccc; */
     border-radius: 8px;
     overflow-x: auto;
     box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
@@ -119,11 +117,6 @@ td {
 .field {
     margin-bottom: 10px;
 }
-
-/* .underlined_fields {
-    border: none;
-    border-bottom: solid 1px #333;
-} */
 
 .inline_fields {
     display: inline-block;
